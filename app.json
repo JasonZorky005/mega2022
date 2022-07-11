@@ -11,7 +11,6 @@
     ],
   "repository": "https://github.com/RuslanUC/MegaAccountCreatorBot",
   "success_url": "/",
-  "stack": "heroku-22"
   "website": "https://ppga.ml/megaaccbot",
   "env": {
       "API_ID": {
@@ -33,4 +32,7 @@
           "size": "free"
       }
   }
+}
+{
+   "stack": "heroku-22"
 }
