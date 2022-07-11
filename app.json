@@ -1,5 +1,6 @@
 {
   "name": "Mega.nz Bot",
+  "stack": "heroku-22",
   "description": "A Telegram bot to create mega.nz accounts.",
   "keywords": [
       "telegram",
