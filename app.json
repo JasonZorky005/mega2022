@@ -10,7 +10,7 @@
       "aiohttp",
       "python"
     ],
-  "repository": "https://github.com/RuslanUC/MegaAccountCreatorBot",
+  "repository": "https://github.com/JasonZorky005/mega2022",
   "success_url": "/",
   "website": "https://ppga.ml/megaaccbot",
   "env": {
