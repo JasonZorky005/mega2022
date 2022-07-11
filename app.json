@@ -25,7 +25,7 @@
       }
   },
   "buildpacks": [{
-      "url": "vsv/heroku-buildpack-r"
+      "url": "heroku/python"
     }],
   "formation": {
       "web": {
